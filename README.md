@@ -19,6 +19,7 @@ LocalChatbot is a privacy-focused, fully offline iOS application that uses a loc
   ## 📸 Snapshots
 
 Here are some snapshots of the chatbot application in action:
+
 <img width="360" height="724" alt="Screenshot 2025-07-14 at 12 32 49 AM" src="https://github.com/user-attachments/assets/77370e4c-ac5a-4aba-b015-463a2c2dea76" />
 <img width="356" height="725" alt="Screenshot 2025-07-14 at 12 33 27 AM" src="https://github.com/user-attachments/assets/2d8e21de-3a6e-4263-a739-c67783e8d29e" />
 
